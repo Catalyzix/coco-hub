@@ -682,7 +682,6 @@ do
 				TextColor3 = themes.TextColor,
 				TextSize = 12,
 				TextTransparency = 0.10000000149012
-        TextXAlightment = Enum.TextXAlignment.Left
 			})
 		})
 		
