@@ -1,2 +1,1 @@
-# coco-hub
-private cocohub dev shit
+Coco Hub
