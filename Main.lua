@@ -1,5 +1,5 @@
 local gamelist = {
-    [286090429] = "Arsenal"
+    [286090429] = "ccArsenal"
 }
 
 for gameId, coco in pairs(gamelist) do
