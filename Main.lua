@@ -4,6 +4,6 @@ local gamelist = {
 
 for gameId, coco in pairs(gamelist) do
     if gameId == game.PlaceId then
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/falseopx/coco-hub/'..coco..'.lua'))()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/falseopx/coco-hub/Games/'..coco..'.lua'))()
     end
 end
